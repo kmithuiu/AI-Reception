@@ -1,4 +1,4 @@
 id,dir,name,son_dau_name,time
-1,/home/kmithuiu/Speaker_Recognition/GMM/dataset/train/mithu/mithu.wav,pranto,speaker_recog,30-06-2025
-2,/home/kmithuiu/Speaker_Recognition/GMM/dataset/train/sabuj/sabuj.wav,padam,noren,30-06-2025
-3,/home/kmithuiu/Speaker_Recognition/GMM/dataset/train/mim/mim.wav,pranto,spk,30-06-2025
+1,/home/kmithuiu/Speaker_Recognition/GMM/dataset/train/mithu/mithu.wav,mithu,speaker_recog,30-06-2025
+2,/home/kmithuiu/Speaker_Recognition/GMM/dataset/train/sabuj/mithu.wav,mithu,noren,30-06-2025
+3,/home/kmithuiu/Speaker_Recognition/GMM/dataset/train/mim/mim.wav,mim,spk,30-06-2025
